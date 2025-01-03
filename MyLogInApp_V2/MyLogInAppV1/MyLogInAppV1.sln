@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLogInAppV1.Server", "MyLogInAppV1.Server\MyLogInAppV1.Server.csproj", "{4F8CC66C-AEBA-4C2F-A8A5-C34CD7788768}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "myloginappv1.client", "myloginappv1.client\myloginappv1.client.esproj", "{8401D3AA-E5AF-4751-BD14-FF902B3744C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8CC66C-AEBA-4C2F-A8A5-C34CD7788768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8CC66C-AEBA-4C2F-A8A5-C34CD7788768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8CC66C-AEBA-4C2F-A8A5-C34CD7788768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8CC66C-AEBA-4C2F-A8A5-C34CD7788768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8401D3AA-E5AF-4751-BD14-FF902B3744C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8401D3AA-E5AF-4751-BD14-FF902B3744C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8401D3AA-E5AF-4751-BD14-FF902B3744C4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8401D3AA-E5AF-4751-BD14-FF902B3744C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8401D3AA-E5AF-4751-BD14-FF902B3744C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8401D3AA-E5AF-4751-BD14-FF902B3744C4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BEDFA9-4E1E-413A-9448-3D8E9036284C}
+	EndGlobalSection
+EndGlobal
